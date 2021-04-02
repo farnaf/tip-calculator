@@ -15,6 +15,8 @@
 		2E555C5426115366002F8719 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2E555C5226115366002F8719 /* LaunchScreen.storyboard */; };
 		2E555C5F26115367002F8719 /* preworkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E555C5E26115367002F8719 /* preworkTests.swift */; };
 		2E555C6A26115367002F8719 /* preworkUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E555C6926115367002F8719 /* preworkUITests.swift */; };
+		2E555C7B2617B277002F8719 /* UIColor+TC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E555C7A2617B277002F8719 /* UIColor+TC.swift */; };
+		2E555C812617DDC7002F8719 /* ColorTheme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E555C802617DDC7002F8719 /* ColorTheme.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		2E555C6526115367002F8719 /* preworkUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = preworkUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2E555C6926115367002F8719 /* preworkUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = preworkUITests.swift; sourceTree = "<group>"; };
 		2E555C6B26115367002F8719 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2E555C7A2617B277002F8719 /* UIColor+TC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIColor+TC.swift"; sourceTree = "<group>"; };
+		2E555C802617DDC7002F8719 /* ColorTheme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorTheme.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +83,8 @@
 		2E555C3B26115365002F8719 = {
 			isa = PBXGroup;
 			children = (
+				2E555C802617DDC7002F8719 /* ColorTheme.swift */,
+				2E555C7A2617B277002F8719 /* UIColor+TC.swift */,
 				2E555C4626115365002F8719 /* prework */,
 				2E555C5D26115367002F8719 /* preworkTests */,
 				2E555C6826115367002F8719 /* preworkUITests */,
@@ -259,7 +265,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				2E555C4C26115365002F8719 /* ViewController.swift in Sources */,
+				2E555C812617DDC7002F8719 /* ColorTheme.swift in Sources */,
 				2E555C4826115365002F8719 /* AppDelegate.swift in Sources */,
+				2E555C7B2617B277002F8719 /* UIColor+TC.swift in Sources */,
 				2E555C4A26115365002F8719 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
