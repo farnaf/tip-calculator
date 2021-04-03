@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='![ezgif com-gif-maker](https://user-images.githubusercontent.com/72419925/113464581-8947ad00-93e2-11eb-895d-ce95432b0c8d.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://im4.ezgif.com/tmp/ezgif-4-1e410a2e547b.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## Notes
