@@ -4,7 +4,7 @@ This project is a tip calculator application for iOS.
 
 Submitted by: **Farnia Nafarifard**
 
-Time spent: 5 hours spent in total
+Time spent: 4 hours spent in total
 
 ## User Stories
 
