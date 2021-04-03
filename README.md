@@ -34,7 +34,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-This was my first time working with Swift and Xcode's programming environment. The main challenge for me was getting familiar with the language and the new programming environment.
+This was my first time working with Swift and Xcode's programming environment. The main challenge for me was getting familiar with the language, the programming environment, and all the features that I wanted to use. After having a design in mind, I spent most of my time playing around with all the settings and functions that I used in my code and syling of my application. 
 
 ## License
 
